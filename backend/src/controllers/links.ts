@@ -32,7 +32,7 @@ async function getLink(req: Request, res: Response) {
     const code = req.params.code as string;
     const link = await linksRepository.findByCode(code);
     if (!link) {
-        res.status(404);
+        res.sendStatus(404);
     } else {
         res.json(link);
     }
