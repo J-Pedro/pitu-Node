@@ -48,3 +48,4 @@ que irá executar no localhost:3000
 
 
 
+(Arquivo readme ainda em construção, devido pouco conhecimento)
