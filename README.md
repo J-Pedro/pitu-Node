@@ -3,6 +3,8 @@
  
  #Link para teste
  
+ Para encurtar utilize o link com https:// por exemplo: https://www.facebook.com/
+ 
  http://www.pitupedro.tk/
  
 
