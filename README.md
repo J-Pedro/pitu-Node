@@ -1,49 +1,50 @@
 # Pitu
-> Um SaaS desenvolvido para encurtar URLs.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-
-![](../header.png)
+ Um SaaS desenvolvido para encurtar URLs.
+ 
+ #Link para teste
+ 
+ http://www.pitupedro.tk/
+ 
 
 ## Instalação
 
-OS X & Linux:
+**Programas**
+[Git](https://git-scm.com/): 
+[MySql](https://www.mysql.com/)
+[Node Js](https://nodejs.org/en/)
 
-```sh
-npm install my-crazy-module --save
-```
 
-Windows:
 
-```sh
-edit autoexec.bat
-```
-
-## Exemplo de uso
-
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
-
-_Para mais exemplos, consulte a [Wiki][wiki]._ 
 
 ## Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+Clone o repositório para sua máquina utilizando o comando
 
-```sh
-make install
-npm test
-```
+$ git clone https://github.com/J-Pedro/pitu.git
 
-## Meta
+No banco de dados será necessário a criação de uma base chamada "pitu"
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+Pelo terminal, entre na pasta backend e execute o comando "npm install" para instalar as dependências
 
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
+**Configurações**
 
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
+Configure as variáveis de ambiente em um arquivo na raiz chamado `.env`. (Caso deseja rodar local, já está configurado)
+
+**Execução**
+
+Para executar, digite o comando "npm start", ele foi configurado para compilar e executar o código no arquivo ./dist/package.json
+ele irá executar no localhost:3001
+
+
+
+
+## Integrar Frontend / Web
+
+Para integrar com o frontend, você deve configurar as váriaveis de ambiente, abrir no cmd na pasta "frontend" e rodar o comando "npm start" também,
+que irá executar no localhost:3000
+
+## Senhas
+#1 FOCO - #2 PERSISTÊNCIA - #3 ESTUDAR - #4 PRATICAR - #5 PROFISSIONAL - #6 SUCESSO
+
 
 
