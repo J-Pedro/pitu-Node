@@ -11,8 +11,8 @@
 ## Instalação
 
 **Programas**
-[Git](https://git-scm.com/): 
-[MySql](https://www.mysql.com/)
+[Git](https://git-scm.com/), 
+[MySql](https://www.mysql.com/),
 [Node Js](https://nodejs.org/en/)
 
 
