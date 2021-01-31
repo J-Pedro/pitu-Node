@@ -96,7 +96,7 @@ class HomePage extends React.Component {
                     </Form>
                 </ContentContainer>
                 <ContentContainer>
-                    <AdsBlock>Adense</AdsBlock>
+                    <AdsBlock>Meu <a href="https://www.linkedin.com/in/joao-pedro-jesus/">linkedin</a> e meu <a href="https://github.com/J-Pedro">GitHub</a></AdsBlock>
                 </ContentContainer>
             </Container>
         )
