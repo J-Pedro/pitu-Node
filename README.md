@@ -3,14 +3,16 @@
  
  #Link para teste
  
+ Para encurtar utilize o link com https:// por exemplo: https://www.facebook.com/
+ 
  http://www.pitupedro.tk/
  
 
 ## Instalação
 
 **Programas**
-[Git](https://git-scm.com/): 
-[MySql](https://www.mysql.com/)
+[Git](https://git-scm.com/), 
+[MySql](https://www.mysql.com/),
 [Node Js](https://nodejs.org/en/)
 
 
@@ -49,3 +51,4 @@ que irá executar no localhost:3000
 
 
 (Arquivo readme ainda em construção, devido pouco conhecimento)
+
